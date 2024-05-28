@@ -1,0 +1,21 @@
+{
+    "name": "Slate Blue Subzero",
+    "displayName": "Slate Blue Subzero",
+    "description": "A tweaked fork of the Slate Blue theme by letheon",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Slate Blue Subzero",
+                "uiTheme": "vs-dark",
+                "path": "./themes/slate-blue-subzero-color-theme.json"
+            }
+        ]
+    }
+}
